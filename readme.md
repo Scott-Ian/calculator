@@ -1,12 +1,12 @@
 # Calculator
 
-#### Latest version date 6/1/2020
+#### Latest version date 6/3/2020
 
-#### By Deryck Jackson and Ian Gregg
+#### By Deryck Jackson, Ian Scott and Ian Gregg
 
 ## Description
 
-Javascript calculator exercise for epicodus week 2 day 1
+Javascript calculator exercise for epicodus week 2 day 3
 
 ## Setup and Installation
 
@@ -24,7 +24,7 @@ No bugs (that we know of feel free to contact us if you find one)
 
 ### License
 
-Copyright © 2020 Deryck Jackson and Ian Gregg
+Copyright © 2020 Deryck Jackson, Ian Gregg and Ian Scott
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
